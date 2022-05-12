@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,300&display=swap');
+
+body{
+    font-family: 'Roboto Flex', sans-serif;
+    background-image: url('/assets/513-5131515_website-background-design-illustration-hd-png-download.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.center-div{
+    padding: 10%
+}
+.btn{
+    padding: 10px 20px;
+    margin: 10px;
+}
+.form-group{
+    margin: 10px;
+}
+small{
+    color: white !important;
+}
+a{
+    text-decoration: none;
+    font-weight: 900;
+    color: white;
+}
